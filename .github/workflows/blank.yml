@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
           
       - name: print content of working directory
-        run: la- al
+        run: ls -al
